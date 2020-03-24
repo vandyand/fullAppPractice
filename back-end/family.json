@@ -1,0 +1,40 @@
+{
+    "family": [
+        { "name": "Bobby", "age": 3 },
+        { "name": "Halden", "age": 6 },
+        { "name": "Piper", "age": 7 },
+        { "name": "Michelle", "age": 28 },
+        { "name": "Andrew", "age": 28 }
+    ],
+    "pets": {
+        "name": "Berry",
+        "animal-type": "Beta Fish",
+        "age": ""
+    },
+    "stuffed animals": [
+        {
+            "name": "Chocolate",
+            "animal-type": "dog",
+            "age": 7,
+            "colors": "white brown"
+        },
+        {
+            "name": "Hubba Bubba Bear",
+            "animal-type": "bear",
+            "age": 61,
+            "colors": "cream"
+        },
+        {
+            "name": "Schmoochypoo",
+            "animal-type": "bear",
+            "age": 60,
+            "colors": "white"
+        },
+        {
+            "name": "Bubble Gum",
+            "animal-type": "cat",
+            "age": 5,
+            "colors": "black white pink"
+        }
+    ]
+}
